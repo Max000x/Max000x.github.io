@@ -89,37 +89,110 @@
     
     
         
+        
+    
+        
             <div>
                 
 
-                <h1><a href="/post/1-warface/" class="rg-red">Warface</a></h1>
+                <h1><a href="/post/22-StarConflict/" class="rg-red">Star Conflict</a></h1>
                 
                       
-                        <a href="/tag/fps/" class="button small fg-lightgray bg-darksteel bg-steel-hover shadowed">  
-                            FPS  
+                        <a href="/tag/mmo/" class="button small fg-lightgray bg-darksteel bg-steel-hover shadowed">  
+                            MMO  
                         </a>  
                            
+                      
+                        <a href="/tag/_2/" class="button small fg-lightgray bg-darksteel bg-steel-hover shadowed">  
+                            Экшен  
+                        </a>  
+                           
+                      
+                        <a href="/tag/pve/" class="button small fg-lightgray bg-darksteel bg-steel-hover shadowed">  
+                            PVE  
+                        </a>  
+                           
+                      
+                        <a href="/tag/pvp/" class="button small fg-lightgray bg-darksteel bg-steel-hover shadowed">  
+                            PVP  
+                        </a>  
+                           
+                      
+                        <a href="/tag/_4/" class="button small fg-lightgray bg-darksteel bg-steel-hover shadowed">  
+                            Симулятор  
+                        </a>  
+                          
+                    
+                <!-- <div class="tag">MMO, Экшен, PVE, PVP, Симулятор</div> -->
+                
+                <p></p><p></p><p><img src="https://vgtimes.ru/uploads/gallery/main/137128/1547057501_7061.jpg" style="width: 446.934px; float: right; height: 251.4px;" class="note-float-right"></p><blockquote><p><b>Star Conflict</b> — динамичный MMO экшн-симулятор, позволяющий сесть за штурвал космического звездолета и принять участие в массовых битвах звездных флотилий. Целый мир для любителей PVP и PVE!</p></blockquote><p></p><h2>Сюжет</h2><p>Минуло три тысячелетия, после того как первые колонисты навсегда покинули Землю. Ныне Галактика разделена между звёздными империями и независимыми группировками. На окраине галактики, в Секторе 1337, была обнаружена область мёртвых, покинутых миров&nbsp;— руины великой цивилизации Предтеч. Империи и Союзы, наёмники и искатели приключений&nbsp;— все они ринулись на поиски артефактов, невзирая на подстерегающую …</p>
+
+                <br>
+
+                <div class="grid">
+                    <div class="row">
+                        <div class="cell-2">
+                            <form action="/post/22-StarConflict/">
+                                <button class="button alert rounded shadowed "><span class="mif-external primary"> &#13;</span> Открыть</button>
+                            </form>
+                        </div>
+
+                        <!--  -->
+
+                    </div>
+                </div>
+            </div>
+            <hr>
+        
+        
+    
+        
+            <div>
+                
+
+                <h1><a href="/post/23-fortnite/" class="rg-red">Fortnite</a></h1>
+                
                       
                         <a href="/tag/shooter/" class="button small fg-lightgray bg-darksteel bg-steel-hover shadowed">  
                             Шутер  
                         </a>  
                            
                       
-                        <a href="/tag/mmo/" class="button small fg-lightgray bg-darksteel bg-steel-hover shadowed">  
-                            MMO  
+                        <a href="/tag/sandbox/" class="button small fg-lightgray bg-darksteel bg-steel-hover shadowed">  
+                            Песочница  
+                        </a>  
+                           
+                      
+                        <a href="/tag/_2/" class="button small fg-lightgray bg-darksteel bg-steel-hover shadowed">  
+                            Экшен  
+                        </a>  
+                           
+                      
+                        <a href="/tag/pvp/" class="button small fg-lightgray bg-darksteel bg-steel-hover shadowed">  
+                            PVP  
+                        </a>  
+                           
+                      
+                        <a href="/tag/f2p/" class="button small fg-lightgray bg-darksteel bg-steel-hover shadowed">  
+                            F2P  
+                        </a>  
+                           
+                      
+                        <a href="/tag/battleroyale/" class="button small fg-lightgray bg-darksteel bg-steel-hover shadowed">  
+                            BattleRoyale  
                         </a>  
                           
                     
-                <!-- <div class="tag">FPS, Шутер, MMO</div> -->
+                <!-- <div class="tag">Шутер, Песочница, Экшен, PVP, F2P, BattleRoyale</div> -->
                 
-                <h3 style="margin: 0px 0px 5px; padding: 0px;"></h3><h2 style="font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; color: rgb(0, 0, 0);"></h2><h2><img src="https://avatars.mds.yandex.net/get-zen_doc/2746556/pub_5f330e1c7f79eb09ffe57f0b_5f33174e148048284a4d4f52/scale_1200" style="width: 50%; float: right;" class="note-float-right"></h2><h2><span style="color: inherit; font-family: inherit;">Введение</span></h2><p style="margin: 0px 0px 5px; padding: 0px;">Игра Warface вышла в 2013 году под руководством Crytek и продакшном Mail.Ru (вне стран СНГ дистрибьютором является MY.com). На момент выхода игра не пользовалась большой популярностью. Многие игроки обошли данный проект стороной из-за начальной «сырости» игры, но уже через несколько лет ситуация кардинально изменилась: Warface выбилась в лидеры среди <b>бесплатных онлайн-шутеров</b>, где остаётся и по сей день.</p><p style="margin: 0px 0px 5px; padding: 0px;"><br></p><p style="margin: 0px 0px 5px; padding: 0px;">После выхода многочисленных глобальных обновлений, игра преобрази<span style="font-family: Helvetica;">лась и набрала преданное сообщество и хорошие отзывы от него. Давайте на них взглянем …</span></p>
+                <p><img src="https://root-nation.com/wp-content/uploads/2018/01/Fortnite-Battle-Royale-title.jpg" style="width: 437px; float: right; height: 236.7px;" class="note-float-right"></p><blockquote><p>Fortnite&nbsp;— это бесплатная игра в жанре «королевская битва» со множеством игровых режимов на любой вкус. Посещайте концерты, создавайте острова или участвуйте в сражениях.</p></blockquote><h2>Игровые режимы&nbsp;</h2><p style="margin: 10px 0px 15px; padding: 0px;">Всего в Fortnite четыре основных режима игры, среди которых каждый игрок сможет выбрать тот, что подходит ему больше всего. Что это за режимы? «Королевская битва», «Королевская вечеринка», творческий режим и «Сражение с Бурей»&nbsp;<br>«Королевские битвы» — это главный тренд года. Многомиллионные продажи, запредельный онлайн, верхние строчки в рейтингах&nbsp;Steam&nbsp;и&nbsp;Twitch. Такое чувство, что их скоро будут встраивать …</p>
 
                 <br>
 
                 <div class="grid">
                     <div class="row">
                         <div class="cell-2">
-                            <form action="/post/1-warface/">
+                            <form action="/post/23-fortnite/">
                                 <button class="button alert rounded shadowed "><span class="mif-external primary"> &#13;</span> Открыть</button>
                             </form>
                         </div>
@@ -137,53 +210,8 @@
             <div>
                 
 
-                <h1><a href="/post/29-nextrp/" class="rg-red">Next RP</a></h1>
+                <h1><a href="/post/25-crossout/" class="rg-red">Crossout</a></h1>
                 
-                      
-                        <a href="/tag/mmo/" class="button small fg-lightgray bg-darksteel bg-steel-hover shadowed">  
-                            MMO  
-                        </a>  
-                           
-                      
-                        <a href="/tag/rp/" class="button small fg-lightgray bg-darksteel bg-steel-hover shadowed">  
-                            RP  
-                        </a>  
-                          
-                    
-                <!-- <div class="tag">MMO, RP</div> -->
-                
-                <p><img src="https://game-zoom.ru/wp-content/uploads/2019/10/Nextrp.jpg" style="width: 50%; float: right;" class="note-float-right"></p><blockquote><p>NextRP — это ролевая игра, созданная на основе GTA: San Andreas, где игроки должны «подниматься» в большом, открытом мире, созданном на основе реальной России. Главной целью является стать самым влиятельным игроком на сервере.&nbsp;</p></blockquote><p>Но чтобы этого добиться, придётся выполнять несколько линий квестов за разные фракции (врач, полицейский, бандит, армия), грабить, убивать, работать, приобретать популярные автомобили, менять скины и многое другое. В игре также есть голосовой чат и множество других удобных функций интерфейса. Кроме того, в игре регулярно происходят обновления, благодаря …</p>
-
-                <br>
-
-                <div class="grid">
-                    <div class="row">
-                        <div class="cell-2">
-                            <form action="/post/29-nextrp/">
-                                <button class="button alert rounded shadowed "><span class="mif-external primary"> &#13;</span> Открыть</button>
-                            </form>
-                        </div>
-
-                        <!--  -->
-
-                    </div>
-                </div>
-            </div>
-            <hr>
-        
-        
-    
-        
-            <div>
-                
-
-                <h1><a href="/post/27-pubg/" class="rg-red">PLAYERUNKNOWN&#39;S BATTLEGROUNDS</a></h1>
-                
-                      
-                        <a href="/tag/fps/" class="button small fg-lightgray bg-darksteel bg-steel-hover shadowed">  
-                            FPS  
-                        </a>  
-                           
                       
                         <a href="/tag/shooter/" class="button small fg-lightgray bg-darksteel bg-steel-hover shadowed">  
                             Шутер  
@@ -195,26 +223,26 @@
                         </a>  
                            
                       
-                        <a href="/tag/tps/" class="button small fg-lightgray bg-darksteel bg-steel-hover shadowed">  
-                            TPS  
+                        <a href="/tag/pvp/" class="button small fg-lightgray bg-darksteel bg-steel-hover shadowed">  
+                            PVP  
                         </a>  
                            
                       
-                        <a href="/tag/battleroyale/" class="button small fg-lightgray bg-darksteel bg-steel-hover shadowed">  
-                            BattleRoyale  
+                        <a href="/tag/_4/" class="button small fg-lightgray bg-darksteel bg-steel-hover shadowed">  
+                            Симулятор  
                         </a>  
                           
                     
-                <!-- <div class="tag">FPS, Шутер, Экшен, TPS, BattleRoyale</div> -->
+                <!-- <div class="tag">Шутер, Экшен, PVP, Симулятор</div> -->
                 
-                <p><img src="https://image.winudf.com/v2/image/Y29tLmlseV9wcm9kdWN0aW9uLnB1YmcuaGQuYmF0dGxlZ3JvdW5kcy53YWxscGFwZXJzX3NjcmVlbl81XzE1MTQzMDUzOTBfMDI0/screen-5.jpg?fakeurl=1&amp;type=.jpg" style="width: 439.823px; float: right; height: 247.4px;" class="note-float-right"></p><blockquote style="margin-top: 0.5em; margin-bottom: 0.5em;"><p><b>PlayerUnknown’s Battlegrounds</b> —&nbsp;<span style="background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;">экшн-игра,</span>&nbsp;в которой игроки в количестве до 100 человек сражаются в «<span style="background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;">королевской битве</span>» (<span style="background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;">англ.</span>&nbsp;<span lang="en" style="">Battle Royale</span>), по типу крупномасштабной «<span style="background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;">last man standing</span>» схватки в&nbsp;<span style="background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;">deathmatch</span>&nbsp;режиме, где игроки воюют между собой, чтобы стать последним выжившим. Игроки могут выбирать, как войти в матч: в одиночку, в паре, в трио или отрядом из четырёх человек. В любом случае, последний человек или команда, оставшаяся в живых, выигрывает матч<span style="line-height: 1em; unicode-bidi: isolate;">.</span></p></blockquote><h3 style="margin-top: 0.5em; margin-bottom: 0.5em;"><span style="line-height: 1em; unicode-bidi: isolate;">Геймплей, ход матча</span></h3><p style="margin-top: 0.5em; margin-bottom: 0.5em;">Каждый …</p>
+                <p><img src="https://game-zoom.ru/wp-content/uploads/2017/05/Crossout-1.jpg" style="width: 436.268px; float: right; height: 245.4px;" class="note-float-right"></p><blockquote><p><b>Crossout —</b>&nbsp;постапокалиптический MMO-экшен, в котором вы сможете собрать из десятков деталей бронемашину уникального дизайна, а затем сразиться на ней в жарких многопользовательских боях. Игра является идейным наследником серии Ex Machina.</p></blockquote><p>В Crossout присутствует как режим игры против компьютерных оппонентов, так и против живых игроков. Пользователи могут вступать в различные кланы, прокачивать свою технику и получать совершенно новые виды оружия и запчастей, которые затем могут использовать по своему усмотрению. Кроме того, в игре есть не только сражения, но и гоночные …</p>
 
                 <br>
 
                 <div class="grid">
                     <div class="row">
                         <div class="cell-2">
-                            <form action="/post/27-pubg/">
+                            <form action="/post/25-crossout/">
                                 <button class="button alert rounded shadowed "><span class="mif-external primary"> &#13;</span> Открыть</button>
                             </form>
                         </div>
@@ -229,8 +257,47 @@
         
     
         
-        
-    
+            <div>
+                
+
+                <h1><a href="/post/24-WOT/" class="rg-red">World of Tanks</a></h1>
+                
+                      
+                        <a href="/tag/shooter/" class="button small fg-lightgray bg-darksteel bg-steel-hover shadowed">  
+                            Шутер  
+                        </a>  
+                           
+                      
+                        <a href="/tag/pvp/" class="button small fg-lightgray bg-darksteel bg-steel-hover shadowed">  
+                            PVP  
+                        </a>  
+                           
+                      
+                        <a href="/tag/_4/" class="button small fg-lightgray bg-darksteel bg-steel-hover shadowed">  
+                            Симулятор  
+                        </a>  
+                          
+                    
+                <!-- <div class="tag">Шутер, PVP, Симулятор</div> -->
+                
+                <p><img src="https://wallpaperscave.ru/images/original/17/12-23/games-world-of-tanks-5542.jpg" style="width: 437px; float: right; height: 245.812px;" class="note-float-right"><br></p><blockquote style="margin-top: 0.5em; margin-bottom: 0.5em;"><p>World&nbsp;of&nbsp;Tanks&nbsp;— культовая ММО-игра о бронетехнике, покорившая миллионы игроков по всему миру. Разнообразие игровых карт, исторически достоверные машины, реалистичный геймплей — присоединяйтесь к армии танкистов и окунитесь в атмосферу легендарных сражений.</p></blockquote><h3 style="margin-top: 0.5em; margin-bottom: 0.5em;"><font face="Helvetica">Арсенал</font></h3><p style="margin-top: 0.5em; margin-bottom: 0.5em;"><span style="font-family: Helvetica;">В&nbsp;World of Tanks&nbsp;игроки включаются в сражения сразу же, без предварительных игр в одиночном режиме, что позволяет сравнивать игру с </span><span style="background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; font-family: Helvetica;">Battlefield Heroes</span><span style="line-height: 1em; unicode-bidi: isolate; font-family: Helvetica;">. Изначально игрок получает в своё распоряжение по одному танку первого уровня 11 стран: СССР (</span>МС-1), Германия (Leichttraktor), США (T1 Cunningham), Франция (Renault FT), Китай (NC-31), Япония …</p>
+
+                <br>
+
+                <div class="grid">
+                    <div class="row">
+                        <div class="cell-2">
+                            <form action="/post/24-WOT/">
+                                <button class="button alert rounded shadowed "><span class="mif-external primary"> &#13;</span> Открыть</button>
+                            </form>
+                        </div>
+
+                        <!--  -->
+
+                    </div>
+                </div>
+            </div>
+            <hr>
         
         
     
@@ -238,13 +305,15 @@
         <!-- <div class="pagination">  
     <span class="step-links">  
           
+            <a href="?page=1">Previous</a>  
+          
 
         <span class="current">  
-            Page 1 of 4.  
+            Page 2 of 4.  
         </span>  
 
           
-            <a href="?page=2">Next</a>  
+            <a href="?page=3">Next</a>  
           
     </span>  
 </div> -->
@@ -252,17 +321,17 @@
 <div class="pagination flex-justify-center">  
     <span class="step-links">  
         <ul class="pagination alert rounded">
-            
-                <li class="page-item service disabled bg-dark fg-gray"><a class="page-link" href="#">< Назад</a></li>
+              
+                <li class="page-item service"><a class="page-link" href="?page=1">< Назад</a></li>
               
 
             
                 
-                    <li class="page-item active"><a class="page-link" href="?page=1">1</a></li>
+                    <li class="page-item"><a class="page-link" href="?page=1">1</a></li>
                 
             
                 
-                    <li class="page-item"><a class="page-link" href="?page=2">2</a></li>
+                    <li class="page-item active"><a class="page-link" href="?page=2">2</a></li>
                 
             
                 
@@ -275,7 +344,7 @@
             
 
             
-                <li class="page-item service"><a class="page-link" href="?page=2">Вперёд ></a></li>
+                <li class="page-item service"><a class="page-link" href="?page=3">Вперёд ></a></li>
             
         </ul>
     </span>  
