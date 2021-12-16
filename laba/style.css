@@ -2766,10 +2766,6 @@ footer h3 a {
             .list-nav {
                 top: 25px;
             }
-
-            #scroll-top {
-                bottom: 25px;
-            }
         }
 
         @media screen and (max-width:460px) {
