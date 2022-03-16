@@ -36,8 +36,6 @@ h1 {
     margin-bottom: 63px;
 }
 
-/* Общие стили Заголовков */
-
 .tittle-40 {
     font-size: 40px;
     font-weight: 700;
@@ -67,8 +65,6 @@ h1 {
     text-transform: uppercase;
     letter-spacing: 2.7px;
 }
-
-/* Общие стили кнопок */
 
 button,
 button:active,
@@ -134,16 +130,12 @@ button:focus {
     background-image: url(../img/scroll-up-hover.png);
 }
 
-/* Иконка использоваемая в section class="software", section class="analytics-1", section class="analytics-2" */
-
 .reusable-icon {
     width: 115px;
     height: 84px;
     background-image: url(../img/reusable-icon.png);
     background-repeat: no-repeat;
 }
-
-/* Сдандарт ширины контенты страницы */
 
 .wrap {
     width: 100%;
@@ -174,8 +166,6 @@ header > img {
     max-width: 894px;
     background-position: center;
 }
-
-/* Стилизация навигации header */
 
 .header-nav {
     display: -webkit-box;
@@ -248,12 +238,6 @@ header > img {
     padding: 21px 56px;
 }
 
-/* Конец стилизации навигации header */
-
-
-
-/* Стилизация кнопок в блоке с классом = header-box */
-
 .header-btn a:first-child {
     padding: 21px 39px;
     margin-right: 18px;
@@ -264,12 +248,6 @@ header > img {
     padding: 22px 37px;
     letter-spacing: 2.5px;
 }
-
-/* Конец стилизации header */
-
-
-
-/* Стилизация section class="sponsors" */
 
 .sponsors {
     background-image: url(../img/section-sponsors-bg.png);
@@ -320,12 +298,6 @@ header > img {
     opacity: 1;
 }
 
-/* Конец стилизации section class="sponsors" */
-
-
-
-/* Стилизация section class="services" */
-
 .grid {
     display: grid;
     grid-template-areas: "a c d""b c d""b f g""e f g""e h h";
@@ -339,8 +311,6 @@ header > img {
     padding-top: 119px;
     margin-bottom: 83px;
 }
-
-/* Стилизация общих стилей  в блоках с классом = grid-item */
 
 .grid-item h3 {
     font-size: 20px;
@@ -388,8 +358,6 @@ header > img {
     opacity: 1;
 }
 
-/* Стилизация тени блоков с классом = grid-item */
-
 .grid-item {
     text-align: center;
     -webkit-box-shadow: 27px 7px 15px 5px rgba(180, 181, 181, 0.3);
@@ -413,10 +381,6 @@ header > img {
     box-shadow: none;
 }
 
-/* Конец стилизации общих стилей  блока с классом = grid-item */
-
-/* Стилизация блока с классом = grid-tittle в верхней части секции */
-
 .grid-tittle {
     grid-area: a;
     padding-right: 86px;
@@ -427,10 +391,6 @@ header > img {
     display: block;
     margin-bottom: 15px;
 }
-
-/* Конец стилизации блока с классом = grid-tittle */
-
-/* Стилизация блока с классом = grid-text в нижней части секции */
 
 .grid-text {
     grid-area: h;
@@ -443,10 +403,6 @@ header > img {
     font-weight: 700;
     color: #192b59;
 }
-
-/* Конец стилизации блока с классом = grid-text */
-
-/* Присваивание имени переменной grid элеметнам для позиционирования  */
 
 .grid-item-1 {
     grid-area: b;
@@ -472,11 +428,6 @@ header > img {
     grid-area: g;
 }
 
-/* Конец присваивания */
-
-/* Стилизация иконок в блоках grid-item */
-
-
 .grid-item-icon {
     height: 92px;
     background-repeat: no-repeat;
@@ -498,117 +449,105 @@ header > img {
 
 /*Конец стилизации section class="services" */
 
-
-
-/* Стилизация section class="subscribe" */
-
-.subscribe {
-    background: rgba(10, 32, 144, 1);
-    background: -webkit-gradient(left top, right top, color-stop(0%, rgba(10, 32, 144, 1)), color-stop(100%, rgba(35, 120, 205, 1)));
-    background: -webkit-gradient(linear, left top, right top, from(rgba(10, 32, 144, 1)), to(rgba(35, 120, 205, 1)));
-    background: linear-gradient(to right, rgba(10, 32, 144, 1) 0%, rgba(35, 120, 205, 1) 100%);
-    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#0a2090', endColorstr='#2378cd', GradientType=1);
+.title-h2{
+  font-size: 50px;
+  font-weight: 600;
+  color: #192b59;
+  line-height: 1.2;
+  letter-spacing: -1.5px;
 }
 
-.subscribe .wrap {
-    display: -webkit-box;
-    display: -ms-flexbox;
-    display: flex;
-    -webkit-box-pack: justify;
-    -ms-flex-pack: justify;
-    justify-content: space-between;
-    -webkit-box-align: center;
-    -ms-flex-align: center;
-    align-items: center;
-    padding-top: 53px;
-    padding-bottom: 50px;
+.page-subscribe .title-h2{
+  color: white;
+  margin-top: 0;
+  margin-bottom: 25px;
 }
 
-/* Стилизация блока с классом = subscribe-box  */
-
-.subscribe-box {
-    height: 309px;
-    padding-bottom: 73px
+.page-subscribe{
+  padding: 25px 0 28px 0;
+  color: white;
+  background: rgba(10, 32, 144, 1);
+  background: linear-gradient(to right, rgba(10, 32, 144, 1) 40%, rgba(35, 120, 205, 1) 100%);
 }
 
-.subscribe-box .tittle-50 {
-    color: #fff;
-    margin-bottom: 45px;
-    letter-spacing: -1.6px;
+.box-subscribe{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-left: 22%;
 }
 
-.subscribe-box .tittle-50 span {
-    display: block;
-    margin-bottom: 30px;
+.box-subscribe-user input{
+  color: white;
+  border: 2px solid #3f5cb1;
+  font-size: 14px;
+  border-radius: 45px;
+  background-color: transparent;
+  padding: 25px 230px 25px 37px;
+  display: block;
+  width: 100%;
+  box-sizing: border-box;
+  box-shadow: 10px 20px 30px rgba(145, 226, 250, .5);
+  margin-top: 30px;
 }
 
-.subscribe-box p {
-    font-size: 18px;
-    color: #dfe8ff;
-    max-width: 430px;
-    width: 100%;
-    line-height: 1.6;
+.box-subscribe-user input:focus,
+.box-sibscribe-user .btn-primary{
+  outline: none;
 }
 
-/* Конец стилизации блока с классом = subscribe-box  */
-
-/* Стилизация формы с классом = subscribe-form  */
-
-.subscribe-form {
-    position: relative;
-    margin-top: 35px;
+.box-subscribe-user{
+  position: relative;
 }
 
-.subscribe-form input {
-    font-size: 13px;
-    color: rgba(177, 195, 238.1);
-    background: transparent;
-    overflow: hidden;
-    border: 2px solid #415fb3;
-    padding: 25px 120px 25px 37px;
-    max-width: 380px;
-    width: 63%;
-    border-radius: 40px;
+.box-subscribe-user .btn-primary{
+  position: absolute;
+  top: 5px;
+  right: 5px;
 }
 
-.subscribe-form input::-webkit-input-placeholder {
-    color: #b1c3ee;
+.box-subscribe-user .btn-primary{
+  font-weight: 700;
+  letter-spacing: 4px;
+  padding: 19px 45px 17px;
+  position: absolute;
+  top: calc(50%/5);
+  right: 8px;
+  font-size: 12px;
+  font-weight: 400;
+  color: white;
+  text-transform: uppercase;
+  background: #1085e4;
+  border-radius: 30px;
+  letter-spacing: 1.5px;
+  border: 1px solid #1085e4;
+  cursor: pointer;
+  margin-bottom: 5px;
 }
 
-.subscribe-form input:-ms-input-placeholder {
-    color: #b1c3ee;
+.box-subscribe-user .btn-primary:hover{
+  background-color: white;
+  color: #1085e4;
 }
 
-.subscribe-form input::placeholder {
-    color: #b1c3ee;
+.box-subscribe p{
+  font-size: 18px;
+   color: white;
+   width: 100%;
+   line-height: 1.6;
 }
 
-.subscribe-form input:focus::-webkit-input-placeholder {
-    opacity: 0;
+.title-h2 span{
+    font-size: 14px;
+    font-weight: 800;
+    color: #00bffe;
+    text-transform: uppercase;
+    letter-spacing: 2.7px;
 }
 
-.subscribe-form input:focus:-ms-input-placeholder {
-    opacity: 0;
+img{
+  margin-right: 25%
 }
-
-.subscribe-form input:focus::placeholder {
-    opacity: 0;
-}
-
-.subscribe-form .btn-blue {
-    font-weight: 700;
-    letter-spacing: 4px;
-    padding: 19px 45px 17px;
-    position: absolute;
-    top: calc(50%/4);
-    right: 8px;
-}
-
-/* Конец стилизация section class="subscribe" */
-
-
-
-/* Стилизация section class="software" */
 
 .software {
     background-image: url(../img/section-software-bg.png);
@@ -628,8 +567,6 @@ header > img {
     padding-bottom: 172px;
 }
 
-/* Позиционирование картинки в секции с классом = software */
-
 .software-img {
     position: absolute;
     background-position: center;
@@ -638,10 +575,6 @@ header > img {
     bottom: 0;
     left: 0;
 }
-
-/* Конец позиционирования картинки */
-
-/* Стилизация блока  с классом software-box */
 
 .software-box {
     margin-top: 114px;
@@ -707,8 +640,6 @@ header > img {
     right: 0;
 }
 
-/* Стилизация scroll блока с классом = software-list */
-
 .software-list:-webkit-scrollbar-button {
     background-image: url('');
     background-repeat: no-repeat;
@@ -740,19 +671,11 @@ header > img {
     width: 4px;
 }
 
-/* Конец стилизации section class="software" */
-
-
-
-/* Стилизация  section class="statistics" */
-
 .statistics {
     background: #edf6ff;
     overflow: hidden;
     position: relative;
 }
-
-/* Стилизация фоновых картинок: квадрата и груга */
 
 .statistics .square {
     display: block;
@@ -770,8 +693,6 @@ header > img {
     opacity: 0.02;
     width: 40%;
 }
-
-/* Конец стилизации фоновых картинок */
 
 .statistics .wrap {
     padding-top: 101px;
@@ -794,8 +715,6 @@ header > img {
     letter-spacing: 3.3px;
     display: block;
 }
-
-/* Стилизация счётчика с классом = statistics-meter */
 
 .statistics-meter {
     list-style: none;
@@ -832,12 +751,6 @@ header > img {
 
 }
 
-/* Конец стилизации  section class="statistics" */
-
-
-
-/* Стилизация  section class="app" */
-
 .app {
     background: #fff;
     position: relative;
@@ -856,8 +769,6 @@ header > img {
     padding-top: 63px;
     padding-bottom: 120px;
 }
-
-/* Стилизация картинки-ссылки на видео */
 
 .app-video {
     position: relative;
@@ -898,8 +809,6 @@ header > img {
     opacity: 1;
 }
 
-/* Конец стилизация картинки-ссылки на видео */
-
 .app-intro {
     position: absolute;
     top: 52px;
@@ -930,8 +839,6 @@ header > img {
     letter-spacing: 3.1px;
     margin-bottom: 24px;
 }
-
-/* Стилизация картинки-ссылки на приложения */
 
 .btn-app {
     display: -webkit-box;
@@ -971,12 +878,6 @@ header > img {
     background-position: -191px 0px;
     margin-left: 30px;
 }
-
-/* Конец стилизации  section class="app" */
-
-
-
-/* Стилизация section class="analytics-1" */
 
 .analytics-1 {
     background-image: url(../img/section-analytics-bg.png);
@@ -1030,12 +931,6 @@ header > img {
     margin-left: 27px;
 }
 
-/* Конец стилизации section class="analytics-1" */
-
-
-
-/* Стилизация section class="analytics-2" */
-
 .analytics-2 {
     background-image: url(../img/section-analytics-2-bg.png);
     background-repeat: no-repeat;
@@ -1057,8 +952,6 @@ header > img {
     background-position: center;
     margin-top: 165px;
 }
-
-/* Стилизация блока с классом = analytics-2-box */
 
 .analytics-2-box {
     -ms-flex-preferred-size: 57%;
@@ -1093,12 +986,6 @@ header > img {
     margin-left: 31px;
 }
 
-/* Конец стилизации section class="analytics-1" */
-
-
-
-/* Стилизация section class="screen" */
-
 .screen {
     background: #edf6ff;
 }
@@ -1128,12 +1015,6 @@ header > img {
     left: -4.5%;
     width: 108%;
 }
-
-/* Конец стилизации section class="screen" */
-
-
-
-/* Стилизация section class="clients" */
 
 .clients {
     position: relative;
@@ -1167,8 +1048,6 @@ header > img {
     letter-spacing: 3.5px;
     margin-bottom: 18px;
 }
-
-/* Стилизция блоков с классом = clients-box */
 
 .clients-box {
     display: -webkit-box;
@@ -1243,12 +1122,6 @@ header > img {
     display: block;
 }
 
-/* Конец стилизции section class="clients"*/
-
-
-
-/* Стилизация section class="pricing" */
-
 .pricing .wrap {
     padding-top: 30px;
     padding-bottom: 117px;
@@ -1267,8 +1140,6 @@ header > img {
     letter-spacing: 3.7px;
     margin-bottom: 20px;
 }
-
-/* Стилизция блоков с классом = pricing-box */
 
 .pricing-box {
     display: -webkit-box;
@@ -1310,10 +1181,6 @@ header > img {
     background-repeat: no-repeat;
 }
 
-/* Конец стилизции блоков с классом = pricing-box */
-
-/* Стилизция h3 и span в блоках с классом = pricing-box */
-
 .pricing-box-item h3 {
     font-size: 70px;
     font-weight: 700;
@@ -1343,8 +1210,6 @@ header > img {
     letter-spacing: 1.9px;
 }
 
-/* Конец стилизции h3 и span в блоках с классом = pricing-box */
-
 .pricing-box-item ul {
     list-style: none;
     padding: 0;
@@ -1362,8 +1227,6 @@ header > img {
     margin-top: 62px;
 }
 
-/* Стилизция кнопок в блоках с классом = pricing-box */
-
 .pricing-btn {
     letter-spacing: 2.4px;
     background: transparent;
@@ -1377,10 +1240,6 @@ header > img {
     -webkit-transition: all 0.3sec linear;
     transition: all 0.3sec linear;
 }
-
-/* Конец стилизции кнопок в блоках с классом = pricing-box */
-
-/* Стилизация активного элемента с классом = pricing-box-item-active */
 
 .pricing-box-item-active {
     background: #192b59;
@@ -1414,12 +1273,6 @@ header > img {
     background: #192b59;
     border: 2px solid #1a88e1;
 }
-
-/* Конец стилизации section class="pricing" */
-
-
-
-/* Стилизация section class="team" */
 
 .team {
     background-image: url(../img/section-team-bg.png);
@@ -1457,8 +1310,6 @@ header > img {
     justify-content: space-between;
     margin-top: 137px;
 }
-
-/* Стилизация блоков с классом = team-box-item */
 
 .team-box-item {
     background: #fff;
@@ -1505,8 +1356,6 @@ header > img {
     letter-spacing: -0.8px;
     margin-top: 7px;
 }
-
-/* Стилизация ссылок на социальные сети */
 
 .team-social {
     height: 52px;
@@ -1596,12 +1445,6 @@ header > img {
     background-position: -170px -38px;
 }
 
-/* Конец стилизации section class="team" */
-
-
-
-/* Стилизация section class="form" */
-
 .form {
     background-image: url(../img/section-form-bg.png);
     background-repeat: no-repeat;
@@ -1669,8 +1512,6 @@ header > img {
     margin-bottom: 32px;
 }
 
-/* Стилизация placeholder в эллементах блока form */
-
 .form-name::-webkit-input-placeholder {
     color: #8995b3;
     font-size: 14px;
@@ -1731,9 +1572,6 @@ header > img {
     font-size: 14px;
 }
 
-/* Стилизация иконок в эллементах блока form */
-
-
 .box-form-name,
 .box-form-email,
 .box-form-massanger {
@@ -1776,8 +1614,6 @@ header > img {
     box-shadow: 0px 0px 10px 1px rgba(16, 133, 228, 0.4);
 }
 
-/* Стилизация кнопки btn-blue в блоке form */
-
 .btn-form {
     font-size: 14px;
     font-weight: 600;
@@ -1807,12 +1643,6 @@ header > img {
 .box-form-btn:hover::before {
     background-position: 15px 0px;
 }
-
-/* Конец стилизации section class="form" */
-
-
-
-/* Стилизация footer*/
 
 footer {
     background: #192b59;
@@ -1857,8 +1687,6 @@ footer h3 a {
     padding: 0;
 }
 
-/* Стилизация ссылок  на соц. сети footer*/
-
 .footer-link a {
     display: block;
     width: 20px;
@@ -1887,8 +1715,6 @@ footer h3 a {
     background-position: 40px 6px;
 }
 
-/* Стилизация :hover ссылок  на соц. сети footer*/
-
 .footer-link a:hover {
     background-color: #fff;
 }
@@ -1913,12 +1739,6 @@ footer h3 a {
     background-position: 40px 109px;
 }
 
-/* Конец стилизации footer*/
-
-
-/* Стилизация медиа запросов */
-
-
 @media screen and (max-width:1650px) {
 
 
@@ -1939,8 +1759,6 @@ footer h3 a {
 
 @media screen and (max-width:1550px) {
 
-    /* Медиа запросы для header*/
-
     header > img {
         width: 50%;
         max-height: 60%;
@@ -1954,8 +1772,6 @@ footer h3 a {
     .team .tatyana {
         margin: 0 auto;
     }
-
-    /* Конец медиа запросам для header*/
 
     .team-box-item:last-child {
         margin: 0 auto;
@@ -1984,8 +1800,6 @@ footer h3 a {
 
 @media screen and (max-width:1200px) {
 
-    /* Медиа запросы для header*/
-
     header {
         width: 100%;
     }
@@ -2000,14 +1814,7 @@ footer h3 a {
         padding-bottom: 220px;
     }
 
-
-    /* Медиа запросы для section = "sponsors" */
-
-
     @media screen and (max-width:1150px) {
-
-        /* Медиа запросы для header*/
-
 
         h1 {
             max-width: 45%;
@@ -2029,8 +1836,6 @@ footer h3 a {
             font-size: 11px;
             padding: 19px 23px;
         }
-
-        /* Медиа запросы для section = "services" */
 
         .grid {
             display: -webkit-box;
@@ -2369,10 +2174,6 @@ footer h3 a {
 
     @media screen and (max-width:900px) {
 
-
-
-        /* Медиа запросы для header*/
-
         header {
             position: relative;
         }
@@ -2391,9 +2192,6 @@ footer h3 a {
             right: 0;
             margin: 0 auto;
         }
-
-
-        /* Стилизация навигации для мобильных устройств header */
 
         .menu-mobile {
             width: 60px;
@@ -2475,8 +2273,6 @@ footer h3 a {
             text-align: center;
         }
 
-        /* Конец медиа запросам для header*/
-
         .sponsors .wrap {
             padding: 60px 25px;
         }
@@ -2522,217 +2318,6 @@ footer h3 a {
             margin-left: 13%;
 
         }
-
-        @media screen and (max-width:800px) {
-
-            /* Медиа запросы для header*/
-
-            header .wrap {
-                padding-bottom: 130px;
-            }
-
-            h1 {
-                font-size: 45px;
-            }
-
-            .header-btn {
-                width: 60%;
-            }
-
-            .header-btn a:first-child,
-            .header-btn a:last-child {
-                font-size: 7px;
-                padding: 15px 27px;
-            }
-
-            /* Медиа запросы для section = "sponsors" */
-
-            .software {
-                background-position: 64% 0px;
-            }
-
-            .grid-item {
-                margin-left: 0;
-                margin-right: 0;
-            }
-
-        }
-
-        @media screen and (max-width:720px) {
-
-            /* Медиа запросы для header*/
-
-            header > img {
-                display: none;
-            }
-
-            .header-nav {
-                margin-bottom: 60px;
-            }
-
-            h1 {
-                text-align: center;
-                margin: 0 auto 0 auto;
-            }
-
-            .header-btn {
-                text-align: center;
-                margin: 40px auto 0 auto;
-            }
-
-            .software {
-                background-position: 62% 0px;
-            }
-
-            .app-intro {
-                display: none;
-            }
-
-            /* Конец медиа запросам для header*/
-
-            .form-box .tittle-50 {
-                margin-left: auto;
-            }
-
-            .box-form-name,
-            .box-form-email,
-            .box-form-massanger {
-                width: 80%;
-                margin-left: 0;
-            }
-
-            .box-form-name::before,
-            .box-form-email::before,
-            .box-form-massanger::before {}
-
-            footer h3 {
-                font-size: 10px;
-            }
-
-            footer h3 a {
-                font-size: 13px;
-            }
-
-            .analytics-2 .btn-blue {
-                margin-left: 0;
-            }
-        }
-
-        @media screen and (max-width:650px) {
-
-            .software-box .tittle-50,
-            .analytics-1 .tittle-50,
-            .analytics-2 .tittle-50,
-            .form-box .tittle-50 {
-                font-size: 45px;
-            }
-
-            .form-box form {
-                margin-left: 7%;
-            }
-        }
-
-        @media screen and (max-width:620px) {
-
-            /* Медиа запросы для header*/
-
-
-            h1 {
-                max-width: 46%;
-                margin: 0 auto;
-                line-height: 1.5;
-                font-size: 45px;
-
-            }
-
-            header .wrap {
-                padding-left: 10px;
-                padding-right: 10px;
-                padding-bottom: 80px;
-            }
-
-            .header-nav {
-                margin-bottom: 50px;
-            }
-
-            .header-btn {
-                display: -webkit-box;
-                display: -ms-flexbox;
-                display: flex;
-                -webkit-box-orient: vertical;
-                -webkit-box-direction: normal;
-                -ms-flex-direction: column;
-                flex-direction: column;
-                -webkit-box-align: center;
-                -ms-flex-align: center;
-                align-items: center;
-                margin-top: 30px;
-            }
-
-            .header-btn a {
-                max-width: 40%;
-                margin: 7px 0px;
-            }
-
-            .header-btn a:first-child {
-                margin-right: 0;
-            }
-
-            /* Конец медиа запросам для header*/
-
-            .subscribe h2 {
-                font-size: 45px;
-            }
-
-            .subscribe p {
-                font-size: 16px;
-            }
-
-            .subscribe-form input {
-                font-size: 10px;
-                color: rgba(177, 195, 238.1);
-                background: transparent;
-                overflow: hidden;
-                border: 2px solid #415fb3;
-                padding: 25px 30px 25px 20px;
-                width: 100%;
-                max-width: 380px;
-            }
-
-            .subscribe-form .btn-blue {
-                font-weight: 700;
-                letter-spacing: 4px;
-                font-size: 10px;
-                padding: 16px 30px 16px;
-                position: absolute;
-                top: calc(50%/3);
-            }
-        }
-
-        @media screen and (max-width:570px) {
-            .form-box form {
-                margin-left: calc(50%/10);
-            }
-        }
-
-
-        @media screen and (max-width:550px) {
-
-            /* Медиа запросы для header*/
-
-            h1 {
-                font-size: 40px;
-            }
-
-            .header-btn a:first-child,
-            .header-btn a:last-child {
-                font-size: 11px;
-                padding: 14px 20px;
-                max-width: 90%
-            }
-
-            /* Конец медиа запросам для header*/
-
 
             .software {
                 background-position: 57% 0px;
