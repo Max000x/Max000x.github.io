@@ -299,6 +299,7 @@ header > img {
 }
 
 .grid-item{
+  max-width: 1110px;
   text-align: center;
   box-shadow: 5px 5px 5px #f4f4f4;
   text-align: center;
@@ -889,8 +890,6 @@ header > img {
     background-position: center;
     margin-top: 153px;
 }
-
-/* Стилизация блока с классом = analytics-1-box */
 
 .analytics-1-box {
     -ms-flex-preferred-size: 57%;
