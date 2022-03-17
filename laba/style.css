@@ -442,6 +442,12 @@ header > img {
 .grid-text{
   grid-area: h;
 }
+
+.grid-text a{
+  color: blue;
+  text-decoration: none;
+}
+
 .title-h2{
   font-size: 50px;
   font-weight: 600;
