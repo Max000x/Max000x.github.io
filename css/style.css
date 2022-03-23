@@ -82,6 +82,11 @@ h1 {
     position: relative;
 }
 
+.grid-item:hover{
+  box-shadow: 0 0 20px #1085e4;
+  transition: 1s
+}
+
 .screen-img {
     display: block;
     background-image: url(../IMG/skrin1.png);
