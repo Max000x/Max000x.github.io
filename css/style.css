@@ -27,15 +27,17 @@ h1 {
 
 
 .title-h2 {
-    font-size: 50px;
-    font-weight: 600;
-    color: #192b59;
-    line-height: 1.2;
-    letter-spacing: -1.5px;
+   font-size: 50px;
+   font-weight: 600;
+   color: #192b59;
+   line-height: 1.2;
+   letter-spacing: -1.5px;
 }
 
 .page-subscribe .title-h2 {
-    color: #fff;
+  color: white;
+  margin-top: 0;
+  margin-bottom: 25px;
 }
 
 .page-stat .title-h2 {
@@ -203,6 +205,14 @@ h1 {
     padding: 24px 56px;
 }
 
+.title-h2 span{
+    font-size: 14px;
+    font-weight: 800;
+    color: #00bffe;
+    text-transform: uppercase;
+    letter-spacing: 2.7px;
+}
+
 .page-company {
     background-image: url(../IMG/siniy-fon.png);
     background-repeat: no-repeat;
@@ -365,9 +375,10 @@ h1 {
 
 
 .box-subscribe {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-left: 22%;
 }
 
 .box-subscribe-child {
@@ -375,25 +386,57 @@ h1 {
 }
 
 .box-subscribe-user input {
-    border: 2px solid #3f6cb1;
-    border-radius: 40px;
-    background-color: transparent;
-    padding: 20px 140px 20px 10px;
-    display: block;
-    width: 100%;
-    box-sizing: border-box;
-    box-shadow: 10px 20px 30px rgba(146, 226, 250, 0.5);
+  color: white;
+  border: 2px solid #3f5cb1;
+  font-size: 14px;
+  border-radius: 45px;
+  background-color: transparent;
+  padding: 25px 230px 25px 37px;
+  display: block;
+  width: 100%;
+  box-sizing: border-box;
+  box-shadow: 10px 20px 30px rgba(145, 226, 250, .5);
+  margin-top: 30px;
+}
+
+.box-subscribe-user input:focus,
+.box-sibscribe-user .btn-primary{
+  outline: none;
 }
 
 .box-subscribe-user {
-    position: relative;
+  position: relative;
 }
 
 .box-subscribe-user .btn-primary {
-    position: absolute;
-    top: 7px;
-    right: 7px;
-    padding: 15px 20px;
+  font-weight: 700;
+  letter-spacing: 4px;
+  padding: 19px 45px 17px;
+  position: absolute;
+  top: calc(50%/5);
+  right: 8px;
+  font-size: 12px;
+  font-weight: 400;
+  color: white;
+  text-transform: uppercase;
+  background: #1085e4;
+  border-radius: 30px;
+  letter-spacing: 1.5px;
+  border: 1px solid #1085e4;
+  cursor: pointer;
+  margin-bottom: 5px;
+}
+
+.box-subscribe-user .btn-primary:hover{
+  background-color: white;
+  color: #1085e4;
+}
+
+.box-subscribe p{
+  font-size: 18px;
+   color: white;
+   width: 100%;
+   line-height: 1.6;
 }
 
 .box-subscribe-user input:focus {
@@ -401,16 +444,10 @@ h1 {
 }
 
 .page-subscribe {
-    padding: 30px 0;
-    background: rgba(88,76,255,1);
-background: -moz-linear-gradient(left, rgba(88,76,255,1) 0%, rgba(88,76,255,1) 46%, rgba(10,149,255,1) 100%);
-background: -webkit-gradient(left top, right top, color-stop(0%, rgba(88,76,255,1)), color-stop(46%, rgba(88,76,255,1)), color-stop(100%, rgba(10,149,255,1)));
-background: -webkit-linear-gradient(left, rgba(88,76,255,1) 0%, rgba(88,76,255,1) 46%, rgba(10,149,255,1) 100%);
-background: -o-linear-gradient(left, rgba(88,76,255,1) 0%, rgba(88,76,255,1) 46%, rgba(10,149,255,1) 100%);
-background: -ms-linear-gradient(left, rgba(88,76,255,1) 0%, rgba(88,76,255,1) 46%, rgba(10,149,255,1) 100%);
-background: linear-gradient(to right, rgba(88,76,255,1) 0%, rgba(88,76,255,1) 46%, rgba(10,149,255,1) 100%);
-filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#584cff', endColorstr='#0a95ff', GradientType=1 );
-
+  padding: 25px 0 28px 0;
+  color: white;
+  background: rgba(10, 32, 144, 1);
+  background: linear-gradient(to right, rgba(10, 32, 144, 1) 40%, rgba(35, 120, 205, 1) 100%);
 }
 
 .page-software {
