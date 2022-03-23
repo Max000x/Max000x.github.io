@@ -387,12 +387,6 @@ header > img {
   margin-bottom: 83px;
 }
 
-.wrap {
-  width: 100%;
-  max-width: 1110px;
-  padding: 0 40px;
-}
-
 .grid-item-title{
   grid-area: a;
   padding-right: 86px;
